@@ -1,0 +1,16 @@
+.strikeThrough{
+    text-decoration: line-through;
+}
+
+.formContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.formElement{
+    margin-left: 2em;
+}
+
+.ToDoContainer{
+    min-height: 50vh;
+}
